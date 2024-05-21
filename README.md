@@ -9,12 +9,16 @@ The Eversec CTF is a series of scenario based CTFs about a fictitious company th
 ## Upcoming Events
 | Event                                | Date           |
 | ------------------------------------ | -------------- |
-| TBD | TBD |
+| BSides RDU 2024                      | Sept. 13 2024  |
+| TBD                                  | TBD            |
 
 ## Past Events
 
 | Event                  | Top Teams                                    |
 | ---------------------- | -------------------------------------------- |
+| CackalackyCon 3        | noob_noob, PWN-252, 1337H4X                  |
+| BSides RDU 2023        | hackpack, TeamWTG, REL                       |
+| CackalackyCon 2        | noob_noob, securisec, TeamWTG                |
 | BSides RDU 2022        | HackPackCTF, securisec, p80n-sec             |
 | BSides RDU 2021        | securisec, RELwc3k, H@ckF0rc30n3             |
 | BSides RDU 2019        | Cos1ne, NotBob, a146                         |
@@ -30,10 +34,10 @@ The Eversec CTF is a series of scenario based CTFs about a fictitious company th
 | BSides Raleigh 2017    | doylersec, DarkN1ght, mhazinsk               |
 | CarolinaCon 12         | Dangling Pointers, securisec, window lickers |
 
+
 ## Writeups
 
 - [BSides RDU 2019 EverSec CTF Writeup](https://medium.com/@stevemyrick/bsides-rdu-2019-eversec-ctf-writeup-4d2f5bfb8661)
-
 - [2019 Stonecutters - Radioactive Man](https://blog.welcomethrill.house/2020/02/2019-stonecutters-radioactive-man.html)
 - [2019 BSidesRDU - "Noobs Table" Experience and Challenge Write-Up](https://blog.welcomethrill.house/2019/10/2019-bsidesrdu-noobs-table-experience.html)
 - [Eversec Fuel (CackalackyCon)](https://kebechet.net/post/12/CackalackyCon_-_EverSecCTF_Fuel)
