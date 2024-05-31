@@ -23,7 +23,7 @@ The Eversec CTF is a series of scenario based CTFs about a fictitious company th
 | BSides RDU 2021        | securisec, RELwc3k, H@ckF0rc30n3             |
 | BSides RDU 2019        | Cos1ne, NotBob, a146                         |
 | BSides Asheville 2019  | Team Red, AllFOU, skyhawk                    |
-| CackalackyCon 1        | noob_noob,League of Shadows, StormCTF        |
+| CackalackyCon 1        | noob_noob, League of Shadows, StormCTF        |
 | BSides RDU 2018        | Welcome Thrillhouse Group, Ntropy, RELwc3k   |
 | BSides Asheville 2018  | defcon828, skyhawk, RedTeam611               |
 | CarolinaCon 14         | securisec, Team RED, LeagueOfShad0ws         |
