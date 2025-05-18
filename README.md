@@ -7,15 +7,17 @@ The Eversec CTF is a series of scenario based CTFs about a fictitious company th
 
 
 ## Upcoming Events
-| Event                                | Date           |
-| ------------------------------------ | -------------- |
-| BSides RDU 2024                      | Sept. 13 2024  |
-| TBD                                  | TBD            |
+| Event                                | Date            |
+| ------------------------------------ | --------------- |
+| BSides RDU 2025                      | Sept. 12, 2025  |
+| TBD                                  | TBD             |
 
 ## Past Events
 
 | Event                  | Top Teams                                    |
 | ---------------------- | -------------------------------------------- |
+| CackalackyCon 4        | p80n, SeaDevs, noob_noob_lite                |
+| BSides RDU 2024        | p80n, DangerN00dles, We Want Coins           |
 | CackalackyCon 3        | noob_noob, PWN-252, 1337H4X                  |
 | BSides RDU 2023        | hackpack, TeamWTG, REL                       |
 | CackalackyCon 2        | noob_noob, securisec, TeamWTG                |
@@ -23,7 +25,7 @@ The Eversec CTF is a series of scenario based CTFs about a fictitious company th
 | BSides RDU 2021        | securisec, RELwc3k, H@ckF0rc30n3             |
 | BSides RDU 2019        | Cos1ne, NotBob, a146                         |
 | BSides Asheville 2019  | Team Red, AllFOU, skyhawk                    |
-| CackalackyCon 1        | noob_noob, League of Shadows, StormCTF        |
+| CackalackyCon 1        | noob_noob, League of Shadows, StormCTF       |
 | BSides RDU 2018        | Welcome Thrillhouse Group, Ntropy, RELwc3k   |
 | BSides Asheville 2018  | defcon828, skyhawk, RedTeam611               |
 | CarolinaCon 14         | securisec, Team RED, LeagueOfShad0ws         |
@@ -64,11 +66,7 @@ The Eversec CTF was created in 2015 by [gabemarshall](https://www.twitter.com/ga
 - [@stevemyrick](https://www.twitter.com/stevemyrick)
 - [@jmacko](https://www.twitter.com/jmacko)
 - [@arkxadin](https://twitter.com/arkxadin)
-- [@ch1kpee](https://www.twitter.com/ch1kpee)
 - [@claytondorsey](https://www.twitter.com/claytondorsey)
-- [@deyavito](https://www.twitter.com/deyavito)
-- [@austinrobertson](https://www.twitter.com/austinrobertson)
-- [@SandroBruscino](https://www.twitter.com/SandroBruscino)
 - [@doylersec](https://www.twitter.com/doylersec)
 
 ### Special Thanks
@@ -76,3 +74,7 @@ The Eversec CTF was created in 2015 by [gabemarshall](https://www.twitter.com/ga
 - [@luxcupitor](https://www.twitter.com/luxcupitor)
 - [@khpuddin](https://www.twitter.com/khpuddin)
 - [@RecViking](https://www.twitter.com/RecViking)
+- [@austinrobertson](https://www.twitter.com/austinrobertson)
+- [@SandroBruscino](https://www.twitter.com/SandroBruscino)
+- [@deyavito](https://www.twitter.com/deyavito)
+- [@ch1kpee](https://www.twitter.com/ch1kpee)
