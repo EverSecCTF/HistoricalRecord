@@ -9,13 +9,14 @@ The Eversec CTF is a series of scenario based CTFs about a fictitious company th
 ## Upcoming Events
 | Event                                | Date            |
 | ------------------------------------ | --------------- |
-| BSides RDU 2025                      | Sept. 12, 2025  |
-| TBD                                  | TBD             |
+| CackalackyCon 2026                   | May 15-17, 2026 |
+| BSides RDU 2026                      | Oct 30, 2026    |
 
 ## Past Events
 
 | Event                  | Top Teams                                    |
 | ---------------------- | -------------------------------------------- |
+| BSides RDU 2025        | p80n-b0dyR0tz, HackPack, Island_0f_Misfit_Hax0rz|
 | CackalackyCon 4        | p80n, SeaDevs, noob_noob_lite                |
 | BSides RDU 2024        | p80n, DangerN00dles, We Want Coins           |
 | CackalackyCon 3        | noob_noob, PWN-252, 1337H4X                  |
